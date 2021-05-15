@@ -1,1 +1,1 @@
-# hacker_noon-blogs
+# competitive-programming
