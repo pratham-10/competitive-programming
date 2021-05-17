@@ -6,8 +6,10 @@ int main()
     int t;    
     cin>>t;
     while(t--)    
-    {        
-        cout <<"So let's Start Our Journeyyyyy!!!!" << endl;
+    {  int a,b ,ans;
+       cin >> a >> b;
+       ans = a+b;
+       cout << ans << endl;
     } 
     return 0;
 }
