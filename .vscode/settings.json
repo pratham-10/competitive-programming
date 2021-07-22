@@ -44,5 +44,7 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp"
-    }
+    },
+    "C_Cpp.dimInactiveRegions": false,
+    "python.pythonPath": "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
 }
